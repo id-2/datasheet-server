@@ -59,6 +59,11 @@ Clone the repository to your local:
 git clone https://www.github.com/forensic-architecture/datasheet-server
 ```
 
+Copy [src/example.config.js](src/example.config.js) into `src/config.js` and modify
+```
+cp src/example.config.js src/config.js
+```
+
 Follow the steps in the [configuration](#configuration) section of this
 document.
 
